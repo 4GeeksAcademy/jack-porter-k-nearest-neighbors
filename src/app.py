@@ -1,5 +1,8 @@
 '''Simple command line utility to make movie recommendations
-based on KNN with cosine similarity.'''
+based on KNN with cosine similarity.
+
+Note: before attempting to run this app in a new environment, run the
+solution notebook to generate the necessary assets.'''
 
 import pickle
 
